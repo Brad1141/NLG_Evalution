@@ -1,0 +1,15 @@
+stuff to do
+- condense the file: check
+- add function to main program: check
+- run twice, document and summary: check
+- get the key words
+- compare the vectors of the keywords
+
+
+What we learned
+- our summary is not long enough to create training examples
+- can't have all text in one line, but also need enough words
+
+- instead of training a serparte word2vec model with the summary text, 
+we could use the weights of the document word2vec and try to evaluate the summary
+using n-skip grams
