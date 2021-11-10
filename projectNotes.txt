@@ -13,3 +13,10 @@ What we learned
 - instead of training a serparte word2vec model with the summary text, 
 we could use the weights of the document word2vec and try to evaluate the summary
 using n-skip grams
+
+Bayes Theorem
+    - probability is the math of proportions
+    - look at the cases where the evidence is true,
+    then look at the cases where the hypothesis is also true
+    - a grade is just a probability of being correct, and a probability is just a proportion
+    - find out what the evidence, and hypothesis is for the summary problem
