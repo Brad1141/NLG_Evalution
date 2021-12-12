@@ -20,3 +20,7 @@ Bayes Theorem
     then look at the cases where the hypothesis is also true
     - a grade is just a probability of being correct, and a probability is just a proportion
     - find out what the evidence, and hypothesis is for the summary problem
+
+Research areas
+    - does the text change a word's embedding?
+    will the word "Sun" be linked to the same words in two different text
