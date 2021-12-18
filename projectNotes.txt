@@ -5,6 +5,8 @@ stuff to do
 - get the key words
 - compare the vectors of the keywords
 
+- extract target & context weights from summary word2vec check!
+
 
 What we learned
 - our summary is not long enough to create training examples
