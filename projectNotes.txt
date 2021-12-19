@@ -5,7 +5,8 @@ stuff to do
 - get the key words
 - compare the vectors of the keywords
 
-- extract target & context weights from summary word2vec check!
+- extract target & context weights from summary word2vec v/
+- learn how the skipgram model is being evaluated
 
 
 What we learned
